@@ -1,0 +1,22 @@
+.navbar-custom {
+	background-color: #0071dc;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.nav-link.active {
+	color: rgb(255, 255, 255);
+}
+
+.dropdown-menu {
+	padding: 20px;
+	margin-left: -5rem;
+}
+
+dropdown-item {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.nav-button {
+	border-radius: 30px;
+}
